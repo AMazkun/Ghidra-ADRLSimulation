@@ -1,1 +1,3 @@
 Script that simulate ADRL instruction combining ADRP and ADD to make correct reference to strings in ARM64 v8
+
+Code corrected
